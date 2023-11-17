@@ -392,6 +392,7 @@
    "metadata": {},
    "outputs": [],
    "source": [
+    "#Exponentiation First!"
     "3 * 4 ** 2"
    ]
   },
@@ -401,6 +402,7 @@
    "metadata": {},
    "outputs": [],
    "source": [
+    "#Multiplication First!"
     "(3 * 4) ** 2"
    ]
   },
