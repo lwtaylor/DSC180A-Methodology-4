@@ -1,3 +1,3 @@
 # DSC180A-Methodology-4
-Luke Taylor
-lwtaylor@ucsd.edu
+Asif Mahdin and Luke Taylor
+
